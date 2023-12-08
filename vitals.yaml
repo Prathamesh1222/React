@@ -1,0 +1,8 @@
+apiVersion: v1
+metadata:
+  askId: UHGWM110-028637
+  caAgileId: poc
+  projectKey: com.optum.mr_sales_icm_uhg_services:lps-lps-ui
+  projectFriendlyName: lps-lps-ui
+  componentType: code
+  targetQG: GATE_00
